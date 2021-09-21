@@ -1,5 +1,8 @@
 # ProofOfConcept
 
+Modify in feature-conflict-2 branch
+by Giovanni Chen
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
 ## Development server
