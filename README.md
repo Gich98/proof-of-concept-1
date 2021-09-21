@@ -1,5 +1,9 @@
 # ProofOfConcept
 
+## AFTER THE RESOLUTION OF THE CONFLICT 
+
+Modify in feature-conflict-2 branch
+by Giovanni Chen
 Change made by Giovanni Chen
 In the feature-conflict-1 branch
 
